@@ -1,13 +1,17 @@
 
 > Abrir essa página em [https://profgstv.github.io/microbit-carrinho-de-drift-com-controle-analgico/](https://profgstv.github.io/microbit-carrinho-de-drift-com-controle-analgico/)
 
-## Editar este projeto
+## Editar este projeto no MakeCode
 
-Para editar este repositório no MakeCode.
+Para visualizar e editar este repositório:
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/profgstv/microbit-carrinho-de-drift-com-controle-analgico** e clique em importar
+* abrir o projeto diretamente no [MakeCode](https://makecode.microbit.org/S08417-58407-42328-87651).
+
+  OU
+  
+* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/);
+* clique em **Importar** e depois clique em **Importar URL**;
+* cole **https://github.com/profgstv/microbit-carrinho-de-drift-com-controle-analgico** e clique em importar.
 
 ## Licença de Uso
 
