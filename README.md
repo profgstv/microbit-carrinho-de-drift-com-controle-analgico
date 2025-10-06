@@ -1,5 +1,8 @@
-
 > Abrir essa página em [https://profgstv.github.io/microbit-carrinho-de-drift-com-controle-analgico/](https://profgstv.github.io/microbit-carrinho-de-drift-com-controle-analgico/)
+
+## Modelo 3D dos protótipos para uso com essa programação
+
+* [Tinkercad](https://www.tinkercad.com/things/huxaQpIZsmd-robo-drift-shield-robotbit-microbit)
 
 ## Editar este projeto no MakeCode
 
